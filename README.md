@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Reservation System
 
 This is a simple Reservation System built using React.js. It allows users to enter their name and reserve a slot. The application supports light and dark themes and has a visually appealing background video.
@@ -106,4 +106,4 @@ This project is bootstrapped with [Vite](https://vitejs.dev/guide/).
 
  ### 3. Can I use create-react-app instead Vite?
  Yes, you can use create-react-app instead Vite, the default workspace is loaded with Vite setup, you can remove the Vite dependencies, add create-react-app dependencies and update the scripts to start using create-react-app.
->>>>>>> 0e52a3b (Initial commit)
+
